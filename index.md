@@ -10,4 +10,4 @@ permalink: /blog/
 ### Contact Me
 - [GitHub](https://github.com/Shayan-Zamiri)
 - [Twitter](https://twitter.com/Shayan_Zamiri)
-- [Gmail](shayan.zamiri@gmail.com)
+- Gmail: shayan.zamiri@gmail.com
