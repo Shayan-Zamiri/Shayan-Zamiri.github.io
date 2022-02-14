@@ -1,11 +1,22 @@
 ---
 title: Gameplay Programmer
-permalink: /blog/
 ---
+
+# About Me
+I'm a c++ programmer who is working with Unreal Engine in Gameplay-Programming field.
 
 # Portfolio
 
-# CV
+## UEVoxelCraft
+...
+## AI Pathfinding Visualizer
+...
+## Third-Person Shooter
+...
+## Kratos's Axe
+...
+
+# [CV(pdf)]
 
 ### Contact Me
 - [GitHub](https://github.com/Shayan-Zamiri)
