@@ -16,7 +16,7 @@ I'm a c++ programmer who is working with Unreal Engine in Gameplay-Programming f
 ## Leviathan Axe
 ...
 
-# [CV(pdf)]
+# [CV-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io)
 
 ### Contact Me
 - [GitHub](https://github.com/Shayan-Zamiri)
