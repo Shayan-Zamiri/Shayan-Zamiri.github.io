@@ -10,19 +10,19 @@ title: Gameplay/C++ Programmer
 
 # Portfolio
 
-  ## UEVoxelCraft
+   UEVoxelCraft
 
   ...
 
-  ## AI Pathfinding Visualizer
+  AI Pathfinding Visualizer
 
 
 # CV
 
-  ## [Download-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io/blob/main/ShayanZamiri_CV_GameplayProgrammer.pdf)
+   [Download-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io/blob/main/ShayanZamiri_CV_GameplayProgrammer.pdf)
 
 ### Contact Me
 
-   [GitHub](https://github.com/Shayan-Zamiri)
-   [Twitter](https://twitter.com/Shayan_Zamiri)
-   <shayan.zamiri@gmail.com>
+   -[GitHub](https://github.com/Shayan-Zamiri)
+   -[Twitter](https://twitter.com/Shayan_Zamiri)
+   -<shayan.zamiri@gmail.com>
