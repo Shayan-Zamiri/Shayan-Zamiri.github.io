@@ -1,5 +1,5 @@
 ---
-title: Gameplay Programmer
+title: Gameplay/C++ Programmer
 ---
 
 # About Me
