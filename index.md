@@ -3,7 +3,8 @@ title: Gameplay/C++ Programmer
 ---
 
 # About Me
-I'm a c++ programmer who is working with Unreal Engine in Gameplay-Programming field.
+
+UE4/C++ programmer with three years of experience working in my indie game studio. I can solve technical and mathematical problems. By using my deep knowledge of software and hardware, I try to create optimal and satisfying features with good architecture.
 
 # Portfolio
 
