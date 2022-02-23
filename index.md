@@ -18,15 +18,11 @@ title: Gameplay/C++ Programmer
 
    ## UEVoxelCraft
 
-<p float="left">
-   <img src="Images/UEVOXELCRAFT1.png" width=480 /> 
-   <img src="Images/UEVOXELCRAFT3.png" width=480/> 
-   <img src="Images/UEVOXELCRAFT2.png" width=480 /> 
-</p>
-
-<video width="1280" height="720">
-<source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4">
-</video>
+   <img src="Images/UEVOXELCRAFT1.png" width=1080 /> 
+   <img src="Images/UEVOXELCRAFT3.png" width=1080/> 
+   <img src="Images/UEVOXELCRAFT2.png" width=1080 /> 
+   <video width="1280" height="720" control=true> <source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4"></video>
+   
 
 # CV
 
