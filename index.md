@@ -21,7 +21,7 @@ title: Gameplay/C++ Programmer
 <img src="Images/UEVOXELCRAFT1.png"/> 
 <img src="Images/UEVOXELCRAFT3.png"/> 
 <img src="Images/UEVOXELCRAFT2.png"/> 
-<video controls> <source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4"></video>
+<video width=720 controls> <source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4"></video>
    
 
 # CV
