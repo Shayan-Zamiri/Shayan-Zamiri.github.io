@@ -18,11 +18,16 @@ title: Gameplay/C++ Programmer
 
 ## UEVoxelCraft
 
+- Procedural Generation based on RuntimeMeshComponent and FastNoiseLite library, it's highly optimized and only renders faces that touch the air and aren't hidden.
+- Inventory System based on Datasets/Asset Manager with load system and also uses flyweight pattern.
+- Blocks can be removed and added by character and chunks will be updated.
+- WorldGenerator always generates chunks up to custom distance  from character and removes far chunks.
+
 <img src="Images/UEVOXELCRAFT1.png"/> 
 <img src="Images/UEVOXELCRAFT3.png"/> 
 <img src="Images/UEVOXELCRAFT2.png"/> 
 <video width=720 controls> <source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4"></video>
-   
+
 
 # CV
 
