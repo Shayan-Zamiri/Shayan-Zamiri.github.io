@@ -12,11 +12,11 @@ title: Gameplay/C++ Programmer
 
 # About Me
 
-  UE4/C++ programmer with three years of experience working in my indie game studio. I can solve technical and mathematical problems. By using my deep knowledge of software and     hardware, I try to create optimal and satisfying features with good architecture.
+UE4/C++ programmer with three years of experience working in my indie game studio. I can solve technical and mathematical problems. By using my deep knowledge of software and hardware, I try to create optimal and satisfying features with good architecture.
 
 # Portfolio
 
-## UEVoxelCraft
+## UEVoxelCraft - [Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft)
 
 - Procedural Generation based on RuntimeMeshComponent and FastNoiseLite library, it's highly optimized and only renders faces that touch the air and aren't hidden.
 - Inventory System based on Datasets/Asset Manager with load system and also uses flyweight pattern.
@@ -35,6 +35,6 @@ title: Gameplay/C++ Programmer
 
 # Contact Me
 
-   -[GitHub](https://github.com/Shayan-Zamiri)
-   -[Twitter](https://twitter.com/Shayan_Zamiri)
-   -<shayan.zamiri@gmail.com>
+- [GitHub](https://github.com/Shayan-Zamiri)
+- [Twitter](https://twitter.com/Shayan_Zamiri)
+- <shayan.zamiri@gmail.com>
