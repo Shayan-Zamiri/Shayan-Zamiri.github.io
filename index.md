@@ -12,7 +12,7 @@ title: Gameplay/C++ Programmer
 
 # About Me
 
-UE4/C++ programmer with three years of experience working in my indie game studio. I can solve technical and mathematical problems. By using my deep knowledge of software and hardware, I try to create optimal and satisfying features with good architecture.
+UE4/C++ programmer with three years of experience working in my indie game studio. I can solve technical and mathematical problems, and by using my knowledge of software and hardware, I try to create optimized and satisfying features with good architecture.
 
 # Portfolio
 
