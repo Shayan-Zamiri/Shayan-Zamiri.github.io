@@ -33,6 +33,10 @@ UE4/C++ programmer with three years of experience working in my indie game studi
 
    [Download-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io/blob/main/ShayanZamiri_CV_GameplayProgrammer.pdf)
 
+# My Youtube Channel
+
+  [Cyborg Dev](https://www.youtube.com/channel/UCj7xbRxsGHx2bOdgvpKr3mw)
+
 # Contact Me
 
 - [GitHub](https://github.com/Shayan-Zamiri)
