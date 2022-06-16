@@ -36,7 +36,7 @@ UE4/C++ programmer with three years of experience working in my indie game studi
 - CMake
 - C++
 
-<video width=720 controls> <source src=https://www.youtube.com/watch?v=67-FcIrju5g></video>
+<video width=720 controls> <source src="Videos/Cyber Engine.mp4" type="video/mp4"></video>
 
 # CV
 
