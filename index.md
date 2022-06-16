@@ -6,9 +6,9 @@ title: Gameplay/C++ Programmer
 
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
-  - [UEVoxelCraft](#uevoxelcraft)
-  - [CyberEngine](#cyberengine)
-  - [RTS formation and movement with UE5 Mass(ECS)](#RTS Formation and movement with UE5 Mass(ECS))
+  - [UEVoxelCraft](#UEVoxelCraft)
+  - [CyberEngine](#CyberEngine)
+  - [RTS formation and movement with UE5 Mass(ECS)](#RTS-formation-and-movement-using-UE5-Mass(ECS))
 - [CV](#cv)
 - [Contact Me](#contact-me)
 
