@@ -6,9 +6,9 @@ title: Gameplay/C++ Programmer
 
 - [About Me](#about-me)
 - [Portfolio](#portfolio)
-  - [UEVoxelCraft](#UEVoxelCraft - [Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft))
-  - [CyberEngine](#CyberEngine - [Github-Repository](https://github.com/Shayan-Zamiri/CyberEngine))
-  - [RTS formation and movement with UE5 Mass(ECS)](#RTS formation and movement using UE5 Mass(ECS))
+  - [UEVoxelCraft](#UEVoxelCraft-[Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft))
+  - [CyberEngine](#CyberEngine-[Github-Repository](https://github.com/Shayan-Zamiri/CyberEngine))
+  - [RTS formation and movement with UE5 Mass(ECS)](#RTS-formation-and-movement-using-UE5-Mass(ECS))
 - [CV](#cv)
 - [Contact Me](#contact-me)
 
@@ -18,7 +18,7 @@ UE4/C++ programmer with three years of experience working in my indie game studi
 
 # Portfolio
 
-## UEVoxelCraft - [Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft)
+## UEVoxelCraft-[Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft)
 
 - Procedural Generation based on RuntimeMeshComponent and FastNoiseLite library, it's highly optimized and only renders faces that touch the air and aren't hidden.
 - Inventory System based on Datasets/Asset Manager with load system and also uses flyweight pattern.
@@ -30,7 +30,7 @@ UE4/C++ programmer with three years of experience working in my indie game studi
 <img src="Images/UEVOXELCRAFT2.png"/> 
 <video width=720 controls> <source src="Videos/UEVOXELCRAFT1.mp4" type="video/mp4"></video>
 
-## CyberEngine - [Github-Repository](https://github.com/Shayan-Zamiri/CyberEngine)
+## CyberEngine-[Github-Repository](https://github.com/Shayan-Zamiri/CyberEngine)
 
 - Import and render 3D obj files
 - ImGUI UI
