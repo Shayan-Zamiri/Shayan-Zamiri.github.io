@@ -1,0 +1,53 @@
+theme: "writeonlyhugo-theme"
+languageCode: "en-us"
+# title: "Personal blog and porfolio"
+
+# googleAnalytics: ""
+
+summaryLength: 20
+params:
+  description: "My personal blog and portfolio"
+
+  favicons:
+    themeColor: "#FFFFFF"
+    backgroundColor: "#FFFFFF"
+    faviconColor: "#000000"
+
+  social:
+    twitter: https://twitter.com/Shayan_Zamiri
+
+  contact:
+    email: shayan.zamiri@gamail.com
+
+  copyright: "© 2024 Shayan Zamiri. Powered by Hugo."
+
+menus:
+  main:
+    - identifier: portfolio
+      name: portfolio
+      title: Portfolio
+      url: /
+      weight: 1
+
+    - identifier: about
+      name: about
+      title: About
+      url: /about
+      weight: 2
+
+  footer:
+    - identifier: portfolio
+      name: portfolio
+      title: Portfolio
+      url: /
+      weight: 1
+
+    - identifier: about
+      name: about
+      title: About
+      url: /about
+      weight: 2
+
+taxonomies:
+  series: "series"
+  tags: "tags"
