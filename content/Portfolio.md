@@ -14,7 +14,7 @@ summary = ''
 
 - [Unreal Marketplace](https://www.unrealengine.com/marketplace/en-US/product/wise-feline-ultimate-utility-ai)
 - Utility AI plugin for UE5
-- Has a custom UI made with **Slate**.
+- Custom UI made with **Slate**.
 - Comes with its own debugger, specially implemented for the plugin
 - Integrated with **Visual Logger** and **Gameplay Debugger**.
 - Inspired by the philosophy of [Dave Mark](https://www.gdcvault.com/play/1012410/Improving-AI-Decision-Modeling-Through%C2%A0) on Utility AI.
@@ -43,10 +43,10 @@ summary = ''
 
 # UEVoxelCraft
 
-- Procedural Generation based on RuntimeMeshComponent and FastNoiseLite library, it's highly optimized and only renders faces that touch the air and aren't hidden.
-- Inventory System based on Datasets/Asset Manager with load system and also uses flyweight pattern.
-- Blocks can be removed and added by character and chunks will be updated.
-- WorldGenerator always generates chunks up to custom distance  from character and removes far chunks.
+- Procedural Generation based on RuntimeMeshComponent and FastNoiseLite library, it's highly optimized and only renders faces that touch the air and aren't hidden
+- Inventory System based on Datasets/Asset Manager with load system and also uses flyweight pattern
+- Blocks can be removed and added by character and chunks will be updated
+- WorldGenerator always generates chunks up to custom distance from character and removes far chunks
 - [Github-Repository](https://github.com/Shayan-Zamiri/UEVoxelCraft)
 
 ### Video
