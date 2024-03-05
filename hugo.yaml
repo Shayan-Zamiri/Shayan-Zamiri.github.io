@@ -29,11 +29,23 @@ menus:
       url: /
       weight: 1
 
+    - identifier: CV
+      name: CV
+      title: CV
+      url: /cv
+      weight: 2
+
     - identifier: about
       name: about
       title: About
       url: /about
-      weight: 2
+      weight: 3
+
+    - identifier: contact
+      name: contact
+      title: Contact
+      url: /contact
+      weight: 4
 
   footer:
     - identifier: portfolio
@@ -42,11 +54,23 @@ menus:
       url: /
       weight: 1
 
+    - identifier: CV
+      name: CV
+      title: CV
+      url: /cv
+      weight: 2
+
     - identifier: about
       name: about
       title: About
       url: /about
-      weight: 2
+      weight: 3
+
+    - identifier: contact
+      name: Contact
+      title: Contact
+      url: /contact
+      weight: 4
 
 taxonomies:
   series: "series"
