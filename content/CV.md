@@ -5,4 +5,4 @@ draft = false
 summary = ''
 +++
 
-[Download-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io/blob/main/ShayanZamiri_CV_GameplayProgrammer.pdf)
+[Download-pdf](https://github.com/Shayan-Zamiri/Shayan-Zamiri.github.io/blob/main/ShayanZamiri_CV_GameProgrammer.pdf)
