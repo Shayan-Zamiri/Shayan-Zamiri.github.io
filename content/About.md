@@ -6,8 +6,7 @@ summary = ''
 +++
 
 ### Short
-I'm a UE5/C++ programmer with over five years of experience, primarily working in indie game studios like Dead Mage, NoOpArmy and CyberSoul.
-I'm passionate about creating things and problem-solving. I hate useless abstractions and believe simplicity is the key.
+I'm a UE5/C++ programmer with over five years of experience, primarily working in studios like Dead Mage, NoOpArmy and Cybersoul. I'm passionate about creating innovative projects and problem-solving. I believe simplicity is the key and try to avoid useless abstractions.
 
 
 ### Long
